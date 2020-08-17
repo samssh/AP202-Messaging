@@ -1,0 +1,360 @@
+Fri May 22 11:00:37 IRDT 2020 INFO message broker creted 
+Fri May 22 11:00:37 IRDT 2020 INFO producer group created, topic name:data 
+Fri May 22 11:00:37 IRDT 2020 INFO producer group created, topic name:data2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer group:dataReaders1 created, topic name:data 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer group:dataReaders2 created, topic name:data 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer group:data2Readers1 created, topic name:data2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer group:data2Readers2 created, topic name:data2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders1_0 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders1_1 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders1_2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders1_3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders1_4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders2_0 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders2_1 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers1_0 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers1_1 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers1_2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers1_3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers2_0 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders1_5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers2_1 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers1_4 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:43 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:3 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:54 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:24 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:43 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:7 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:9 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:234 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:32 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:432 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:3423 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders2_2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders2_3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders2_4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders2_5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders2_6 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:445 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:32425 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:453 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers1_5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers1_6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers1_7 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers1_8 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers1_9 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers2_2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders1_6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers2_3 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:924 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:6243 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:24 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:43 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers2_4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers2_5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:data2Readers2_6 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:335 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders1_7 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:2 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:424 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:2 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:13 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:423 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders1_8 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:13 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer created, consumer name:dataReaders1_9 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:65 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:6 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:64 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:767 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:56 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:45 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:5356467 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:6 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:6556 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:345 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt start transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:654 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:8 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:66 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:c.txt send message:9763 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:678 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt start transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO producer c.txt finished, topic name:data 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:1 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:9 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:8 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:325 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:435 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:68787 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:89 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:675 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:56 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:324 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:3 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:2 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:7 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:546 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:87990 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:8 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt start transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:67 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:54 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:345 
+Fri May 22 11:00:37 IRDT 2020 INFO producer b.txt finished, topic name:data 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_0 get a message:3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_1 get a message:7 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_2 get a message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_1 get a message:9 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_2 get a message:234 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_2 get a message:32 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_2 get a message:432 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_2 get a message:3423 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_1 get a message:924 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_2 get a message:6243 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:13 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:767 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_1 get a message:56 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_0 get a message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_4 get a message:8 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:66 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:9763 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:1 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:9 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:8 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:325 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:435 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:68787 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:89 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:675 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:56 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:324 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:7 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:546 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:87990 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:8 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:67 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt commit transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt commit transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt start transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:54 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:345 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt commit transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 start getting a transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:6 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt start transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 end the transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 start getting a transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:32 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 end the transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt cancel a transaction. 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_0 get a message:43 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_1 get a message:54 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt commit transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_0 get a message:24 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt start transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_1 get a message:43 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:23 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt cancel a transaction. 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_2 get a message:24 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:24 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:23435 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:324 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_1 get a message:445 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:234 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:323 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:324 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:b.txt send message:454 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:32432 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_0 get a message:32425 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO producer b.txt finished, topic name:data2 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_3 get a message:234 
+Fri May 22 11:00:37 IRDT 2020 INFO producer a.txt finished, topic name:data2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_0 get a message:43 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:453 
+Fri May 22 11:00:37 IRDT 2020 INFO producer:a.txt send message:65 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_1 get a message:54 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_5 get a message:32432 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_0 get a message:24 
+Fri May 22 11:00:37 IRDT 2020 INFO producer a.txt finished, topic name:data 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_5 get a message:43 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders2_5 get a message:65 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_0 get a message:24 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders2_5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders2_2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders2_4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders2_0 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders2_3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:445 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:32425 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:453 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:24 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:43 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:335 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:424 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders2_6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_5 get a message:2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:13 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:423 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:65 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:64 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:45 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:5356467 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:6556 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:345 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:654 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:678 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders2_1 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_0 get a message:43 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_2 start getting a transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_2 end the transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:335 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_2 get a message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_2 get a message:32 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_5 get a message:424 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_2 start getting a transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_2 end the transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:23 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:23435 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:13 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:323 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:423 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:454 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:65 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_8 get a message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:64 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers1_2 get a message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:45 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers1_2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers1_8 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:5356467 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:6556 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:345 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:654 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:678 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 start getting a transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 end the transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers1_5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:32 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 start getting a transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers1_7 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers1_4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers1_0 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers1_3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers1_1 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers1_6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 end the transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_5 get a message:23 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:23435 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:323 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_2 get a message:454 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_1 get a message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:data2Readers2_5 get a message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers2_1 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers2_2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers2_4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers2_6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers2_3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers1_9 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_0 get a message:3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_0 get a message:7 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers2_5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_9 get a message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:data2Readers2_0 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_4 get a message:9 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_3 get a message:234 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_3 get a message:32 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_3 get a message:432 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_4 get a message:3423 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_3 get a message:924 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_0 get a message:6243 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_3 get a message:13 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_1 get a message:3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_0 get a message:6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_3 get a message:767 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_0 get a message:56 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_7 get a message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_4 get a message:8 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_1 get a message:66 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:9763 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_0 get a message:1 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:9 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_0 get a message:8 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:325 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:435 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:68787 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:89 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:675 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:56 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:324 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:7 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:546 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:87990 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:8 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:67 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:54 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:345 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 start getting a transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 end the transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 start getting a transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 end the transaction 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:34 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:24 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:324 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:234 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:32432 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer:dataReaders1_8 get a message:65 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders1_8 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders1_4 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders1_2 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders1_5 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders1_9 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders1_6 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders1_3 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders1_7 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders1_1 
+Fri May 22 11:00:37 IRDT 2020 INFO consumer finish, consumer name:dataReaders1_0 
