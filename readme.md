@@ -7,7 +7,5 @@
 
 ---
 
-#### student number : 98100175
-
 #### author : **_samssh_**
   
