@@ -3,3 +3,6 @@
 /gradle
 /out/
 build
+gradlew.bat
+gradlew
+settings.gradle
